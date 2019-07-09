@@ -1,4 +1,4 @@
-void drawChewieHistogramsEfficiency() {
+void drawChewieHistogramsCellEfficiency() {
 
 	TFile* file1 = new TFile("Chewie_Runs1000_1003.root");
 
